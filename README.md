@@ -1,1 +1,1 @@
-Aprendiendo a crear listas y sus formas de uso
+Aprendiendo a crear, insertar, actualizar y borrar datos de una lista
